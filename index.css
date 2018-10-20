@@ -1,0 +1,8 @@
+header{
+    border:2px dotted red;
+}
+section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
